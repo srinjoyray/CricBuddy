@@ -1,0 +1,1 @@
+export {default as Cricket} from './cricket.svg';
